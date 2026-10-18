@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Avtar Singh — Portfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 3004,
+      "bodyTextHash": "135b69397451118ec6068f9188d00b3cbac2976c7383e4d00f31486c3b0484b0",
+      "bodyTextPrefix": "Skip to work Avtar Singh Work About Practice Contact PORTFOLIO V",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Avtar Singh — Portfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 3014,
+      "bodyTextHash": "8e7bb07e793e8cc673b247beea625bfdc4d48fbbb4eb51eb68cd36de5236bf40",
+      "bodyTextPrefix": "Skip to work Avtar Singh Open menu Work About Practice Contact P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
